@@ -39,6 +39,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "1610E2B7-F9B5-402D-929B-8B33F3687D8B"
+    }
   ],
   "name": "Lisa",
   "nameIsFixed": true,
