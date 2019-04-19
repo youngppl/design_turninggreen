@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "684C9163-6396-4BEB-A958-11C39B3BFF3F",
+  "do_objectID": "709AF1E9-9576-42AC-A026-0D24B94A9596",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,23 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 37,
+    "width": 59,
+    "x": 81,
+    "y": 555
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -441,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,23 +33,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "576F318B-AD6E-4E2C-80F7-1F6A72F30F5B"
+      "class": "group",
+      "id": "F0E1C40C-F476-4EBA-9BD1-34B10A425C7E"
     },
     {
-      "class": "artboard",
-      "id": "96004F2D-F151-4E6D-8EF6-0DFF207EB61F"
+      "class": "group",
+      "id": "CD847545-EFAE-4E7E-9F42-0463A97A09FC"
     },
     {
-      "class": "artboard",
-      "id": "DD53F366-9646-4583-9B3C-DC739E513670"
-    },
-    {
-      "class": "artboard",
-      "id": "1610E2B7-F9B5-402D-929B-8B33F3687D8B"
+      "class": "text",
+      "id": "0D12F01A-4009-4DB5-BB5B-E0F438D84DB6"
     }
   ],
-  "name": "Lisa",
+  "name": "Dropdown Copy",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -68,11 +57,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -663,
-    "guides": [
-    ]
   }
 }

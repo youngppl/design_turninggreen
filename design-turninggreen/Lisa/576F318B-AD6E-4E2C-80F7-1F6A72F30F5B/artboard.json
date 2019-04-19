@@ -4,16 +4,14 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "AAD5ED3B-C1E7-448F-B5C8-4B47022A3573",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1610E2B7-F9B5-402D-929B-8B33F3687D8B",
+  "do_objectID": "576F318B-AD6E-4E2C-80F7-1F6A72F30F5B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "65693E52-EB79-4739-83F0-74D33FF03BE2",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,15 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2895B3DA-E110-4B2A-B695-22D841E4E9E1",
-    "height": 1445,
+    "height": 1499,
     "width": 1440,
-    "x": -354,
+    "x": 4266,
     "y": -421
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "F161BF6C-C8DF-4651-BDA5-7FE922146723"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -40,7 +36,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "F0C02332-E996-4546-8C00-93549B9D011F",
     "guides": [
     ]
   },
@@ -56,62 +51,66 @@
   "layers": [
     {
       "class": "text",
-      "id": "99ECF54D-2479-4A85-9B1B-C8B4F6C75EB6"
+      "id": "EA6F209B-564E-4117-A1F5-EF807B3E1C8C"
     },
     {
       "class": "text",
-      "id": "07DFE164-51A4-4AE6-9DE2-2A0F72486D03"
+      "id": "7170D14B-E1D0-4B2D-82F1-7D1ECBB93C30"
     },
     {
       "class": "text",
-      "id": "1ECA2F3C-0F1C-40BD-9299-8BC4ADA6B5E6"
+      "id": "413FDC11-4E4F-4BE2-ABCE-D1598FACB67A"
     },
     {
       "class": "group",
-      "id": "4CB67E6B-10D6-41A4-AA27-E9E2AF7C3198"
+      "id": "AD72B0FD-27E2-4448-A28E-2517D113AAAD"
     },
     {
       "class": "group",
-      "id": "AFEFFB86-FD18-48C8-BBBC-4E2446DC181D"
+      "id": "2DAC674C-AE38-4AF8-A161-6CD1A59356D5"
     },
     {
       "class": "group",
-      "id": "1A3BD2D4-60D4-4FD5-8F4F-0E642BEE6AAD"
+      "id": "4828CC0C-B78F-4D75-B875-6A6CC493F152"
     },
     {
       "class": "group",
-      "id": "EEFE4A35-CA68-4443-8A22-3665D754AC9A"
+      "id": "EA12017F-54EA-48A6-A085-4806973B6A72"
     },
     {
       "class": "group",
-      "id": "859A3FCB-AAE8-47DB-A572-2A88A0B66E08"
+      "id": "0D62C89A-82F7-48FB-8552-962427407849"
     },
     {
       "class": "group",
-      "id": "E4B54170-BC32-4D3C-A84F-46B105C798C7"
-    },
-    {
-      "class": "group",
-      "id": "FC606781-D6FE-4E29-8F7A-8ACFEC9A9386"
-    },
-    {
-      "class": "group",
-      "id": "631AE06A-4CDE-405A-B863-3AA4E0115351"
+      "id": "3052C0E6-F7E5-49DE-AB6F-67CEC391CBD5"
     },
     {
       "class": "symbolInstance",
-      "id": "2E433342-D117-43B5-9BEE-DDDE229C073F"
-    },
-    {
-      "class": "rectangle",
-      "id": "7FF67D21-CF46-4D81-BD7F-C525FD2C41C6"
+      "id": "F18844A8-05B8-45C8-B5C6-5FCAC0452AD4"
     },
     {
       "class": "group",
-      "id": "1B831CD0-B41C-41C6-9956-E7EB58419BD4"
+      "id": "732E4A31-D3B9-4918-AECC-47FBDE5380E4"
+    },
+    {
+      "class": "rectangle",
+      "id": "440BDF8B-FC64-4896-A3B7-C6A7F8686E04"
+    },
+    {
+      "class": "text",
+      "id": "13918E3E-4A6A-4A5C-9C2C-944BC4237D07"
+    },
+    {
+      "class": "text",
+      "id": "E9E843D2-ECD5-4FE4-A605-C13DC95E36D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "514CEC22-2D3E-4B75-95C5-F76B2EC3DAAB"
     }
   ],
-  "name": "Challenge (Waste) Unlocking Complete",
+  "name": "Challenge (Waste) Mid State Copy",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -127,7 +126,6 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "8ECB95DB-6362-42DB-8BE9-29F8FE6DF54F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -136,12 +134,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "95C58675-58D0-463D-BF61-11ABCF3C0239",
     "guides": [
-      1445,
-      1342,
-      232,
-      142
     ]
   }
 }

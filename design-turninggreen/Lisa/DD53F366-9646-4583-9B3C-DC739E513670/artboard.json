@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "AAD5ED3B-C1E7-448F-B5C8-4B47022A3573",
+    "do_objectID": "03C77AB5-2F80-4A0D-9FD9-6CFC214A4280",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1610E2B7-F9B5-402D-929B-8B33F3687D8B",
+  "do_objectID": "DD53F366-9646-4583-9B3C-DC739E513670",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "65693E52-EB79-4739-83F0-74D33FF03BE2",
+    "do_objectID": "0DD9C8A1-C811-4F61-94A4-CBD2AA31AE1D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,15 +24,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2895B3DA-E110-4B2A-B695-22D841E4E9E1",
-    "height": 1445,
+    "do_objectID": "28607FFB-1056-43BD-8585-E64DEFEBB120",
+    "height": 1912,
     "width": 1440,
-    "x": -354,
+    "x": 1186,
     "y": -421
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "F161BF6C-C8DF-4651-BDA5-7FE922146723"
+    "do_objectID": "1E1C8A20-3CAD-4AF2-9593-8079E9879466"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -40,7 +40,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "F0C02332-E996-4546-8C00-93549B9D011F",
+    "do_objectID": "2C421CB0-F289-4411-B987-87C9B5FC3908",
     "guides": [
     ]
   },
@@ -52,66 +52,74 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
-      "id": "99ECF54D-2479-4A85-9B1B-C8B4F6C75EB6"
+      "id": "F1E39926-EACD-4C09-A5A6-CB3BA5BC9211"
     },
     {
       "class": "text",
-      "id": "07DFE164-51A4-4AE6-9DE2-2A0F72486D03"
+      "id": "30EA2A49-3E62-4BE8-A353-2F0027E26E22"
     },
     {
       "class": "text",
-      "id": "1ECA2F3C-0F1C-40BD-9299-8BC4ADA6B5E6"
+      "id": "A71090FF-E28A-4675-9F58-320AF94CD198"
     },
     {
       "class": "group",
-      "id": "4CB67E6B-10D6-41A4-AA27-E9E2AF7C3198"
+      "id": "3F54D81C-EAA5-4ED3-A0F1-2CC029BDABE3"
     },
     {
       "class": "group",
-      "id": "AFEFFB86-FD18-48C8-BBBC-4E2446DC181D"
+      "id": "45797BD8-E729-47F3-AF21-C2FA705C5E5A"
     },
     {
       "class": "group",
-      "id": "1A3BD2D4-60D4-4FD5-8F4F-0E642BEE6AAD"
+      "id": "E8F29877-F213-453A-AE01-A3DA05D87DA7"
     },
     {
       "class": "group",
-      "id": "EEFE4A35-CA68-4443-8A22-3665D754AC9A"
+      "id": "AC97514A-7CA6-49CA-AC08-1FBC20FE0760"
     },
     {
       "class": "group",
-      "id": "859A3FCB-AAE8-47DB-A572-2A88A0B66E08"
+      "id": "12467F81-F02E-489A-A18F-3C21456601EA"
     },
     {
       "class": "group",
-      "id": "E4B54170-BC32-4D3C-A84F-46B105C798C7"
-    },
-    {
-      "class": "group",
-      "id": "FC606781-D6FE-4E29-8F7A-8ACFEC9A9386"
-    },
-    {
-      "class": "group",
-      "id": "631AE06A-4CDE-405A-B863-3AA4E0115351"
+      "id": "0A3B83EB-A643-4529-A11E-35679A3DDECB"
     },
     {
       "class": "symbolInstance",
-      "id": "2E433342-D117-43B5-9BEE-DDDE229C073F"
-    },
-    {
-      "class": "rectangle",
-      "id": "7FF67D21-CF46-4D81-BD7F-C525FD2C41C6"
+      "id": "C67465F0-C33C-4D70-BE63-F2F2ADD9A5C7"
     },
     {
       "class": "group",
-      "id": "1B831CD0-B41C-41C6-9956-E7EB58419BD4"
+      "id": "636EA64E-99EF-4321-A139-5C8260C18D00"
+    },
+    {
+      "class": "rectangle",
+      "id": "F70788D5-E584-434C-9525-EE13F600C7F9"
+    },
+    {
+      "class": "text",
+      "id": "513504A2-E2C7-4035-82D5-64AE0BDE745E"
+    },
+    {
+      "class": "text",
+      "id": "9F19B5D4-7BF9-49E7-A5CB-61E8A755442B"
+    },
+    {
+      "class": "text",
+      "id": "875AAA55-E028-490B-8C01-F8F01378A1E7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A53B96B1-C4EE-43BC-8AB3-12E63DE8B480"
     }
   ],
-  "name": "Challenge (Waste) Unlocking Complete",
+  "name": "Challenge (Waste) Mid State",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -127,7 +135,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "8ECB95DB-6362-42DB-8BE9-29F8FE6DF54F",
+    "do_objectID": "A1F4AD46-AF7F-4C87-994C-CE6A07D20C0C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -136,12 +144,8 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "95C58675-58D0-463D-BF61-11ABCF3C0239",
+    "do_objectID": "0AEA10D1-82E6-4662-98B7-D75C4C58C770",
     "guides": [
-      1445,
-      1342,
-      232,
-      142
     ]
   }
 }

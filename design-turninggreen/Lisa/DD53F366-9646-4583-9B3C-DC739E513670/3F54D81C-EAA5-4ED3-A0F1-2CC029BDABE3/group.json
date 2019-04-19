@@ -1,10 +1,11 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "684C9163-6396-4BEB-A958-11C39B3BFF3F",
+  "do_objectID": "3F54D81C-EAA5-4ED3-A0F1-2CC029BDABE3",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "A3E275CB-DC51-4E54-A0B7-B32076DA32E0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,23 +16,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "do_objectID": "54EFFE9F-C40F-4E1B-A65C-04859A8A7139",
+    "height": 92,
+    "width": 502,
+    "x": 197,
+    "y": 362
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D6352EA1-89EC-4596-BEAB-5EE0C7461C07"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -441,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,23 +36,23 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "576F318B-AD6E-4E2C-80F7-1F6A72F30F5B"
+      "class": "rectangle",
+      "id": "18E76935-5D9B-48F2-995C-24C297D92B5C"
     },
     {
-      "class": "artboard",
-      "id": "96004F2D-F151-4E6D-8EF6-0DFF207EB61F"
+      "class": "symbolInstance",
+      "id": "9A53CD2D-1AE3-4608-A19C-5F8C8B5716C6"
     },
     {
-      "class": "artboard",
-      "id": "DD53F366-9646-4583-9B3C-DC739E513670"
+      "class": "text",
+      "id": "40239456-1D71-42C5-89C1-4FB4AA1CA0B4"
     },
     {
-      "class": "artboard",
-      "id": "1610E2B7-F9B5-402D-929B-8B33F3687D8B"
+      "class": "symbolInstance",
+      "id": "807EC1CB-E57E-40BC-A0F3-3222A4C645CB"
     }
   ],
-  "name": "Lisa",
+  "name": "Completed 1",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -64,15 +60,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "6ADA0D75-471C-4834-B335-1E47A4C79E84",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -663,
-    "guides": [
-    ]
   }
 }
