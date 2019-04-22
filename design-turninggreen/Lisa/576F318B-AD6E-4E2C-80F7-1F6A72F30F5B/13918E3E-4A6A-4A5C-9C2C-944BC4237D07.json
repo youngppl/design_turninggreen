@@ -30,8 +30,38 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 87,
+        "length": 45,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3176470588235294,
+            "green": 0.3176470588235294,
+            "red": 0.3098039215686275
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Raleway-Bold",
+              "size": 24
+            }
+          },
+          "kerning": -0.2411765,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 37,
+            "minimumLineHeight": 37
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 42,
+        "location": 45
       }
     ],
     "string": "You completed this challenge on 11/01/18 and diverted 10 lbs of garbage from landfills."
@@ -58,7 +88,7 @@
     "x": 285,
     "y": 857
   },
-  "glyphBounds": "{{0, 9}, {341, 98}}",
+  "glyphBounds": "{{0, 9}, {324, 98}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

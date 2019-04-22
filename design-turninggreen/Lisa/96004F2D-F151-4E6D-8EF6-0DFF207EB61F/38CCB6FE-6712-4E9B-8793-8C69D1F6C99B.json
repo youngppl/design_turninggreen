@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 47,
+        "length": 49,
         "location": 0
       }
     ],
-    "string": "How long would you like to take this challenge?"
+    "string": "How long would you like to retake this challenge?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -58,9 +58,9 @@
     "height": 76,
     "width": 401,
     "x": 278,
-    "y": 1133
+    "y": 951
   },
-  "glyphBounds": "{{0, 10}, {388, 64}}",
+  "glyphBounds": "{{1, 10}, {328, 64}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

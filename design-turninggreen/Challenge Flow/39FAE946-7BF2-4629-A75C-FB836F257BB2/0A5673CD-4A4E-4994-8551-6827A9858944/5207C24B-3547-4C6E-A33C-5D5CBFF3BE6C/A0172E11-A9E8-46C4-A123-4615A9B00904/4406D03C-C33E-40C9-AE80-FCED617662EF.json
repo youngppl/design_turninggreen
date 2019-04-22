@@ -9,40 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3176470588235294,
-            "green": 0.3176470588235294,
-            "red": 0.3098039215686275
+            "blue": 0.2902374565601349,
+            "green": 0.2901752889156342,
+            "red": 0.290221631526947
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Raleway-Regular",
-              "size": 24
+              "size": 39
             }
           },
-          "kerning": -0.2411765,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 37,
-            "minimumLineHeight": 37
+            "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 145,
+        "length": 1,
         "location": 0
       }
     ],
-    "string": "Carry a bag to collect your waste! Don’t hide it! Carry your bag of waste proudly and invite conversations with classmates and community members."
+    "string": "6"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3C4A8F92-1A5A-4E6E-9FA6-B0B3F23E42D0",
+  "do_objectID": "4406D03C-C33E-40C9-AE80-FCED617662EF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "C27A78A3-F940-45D0-A71A-585F6EDB18C4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 189,
-    "width": 362,
-    "x": 276,
-    "y": 800
+    "do_objectID": "4442B94D-A58D-4A94-A9F0-703F2E1E61D6",
+    "height": 46,
+    "width": 24,
+    "x": 44,
+    "y": 46
   },
-  "glyphBounds": "{{0, 9}, {359, 172}}",
+  "glyphBounds": "{{2, 9}, {20, 29}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,42 +65,39 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Carry a bag to colle Copy",
+  "name": "6",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "FCF8AF26-BE62-420B-B13D-E3C09DD8C130",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "AEC51B86-CFDE-47F6-A109-E055FF37F4E5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "559BFCB5-C7E9-4122-8582-E27D9460DCCA",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3176470588235294,
-          "green": 0.3176470588235294,
-          "red": 0.3098039215686275
+          "blue": 0.2902374565601349,
+          "green": 0.2901752889156342,
+          "red": 0.290221631526947
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Raleway-Regular",
-            "size": 24
+            "size": 39
           }
         },
-        "kerning": -0.2411765,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 37,
-          "minimumLineHeight": 37
+          "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -110,5 +105,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0
 }
