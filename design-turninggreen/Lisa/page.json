@@ -39,6 +39,34 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "C85DD70C-EBDF-4D2A-8FD9-9B0B5A21007B"
+    },
+    {
+      "class": "artboard",
+      "id": "B7DBE387-AF5D-4242-8A2F-D426E4A99484"
+    },
+    {
+      "class": "artboard",
+      "id": "87206FAB-2517-488B-A5E7-B669A3BA82AC"
+    },
+    {
+      "class": "artboard",
+      "id": "96004F2D-F151-4E6D-8EF6-0DFF207EB61F"
+    },
+    {
+      "class": "artboard",
+      "id": "576F318B-AD6E-4E2C-80F7-1F6A72F30F5B"
+    },
+    {
+      "class": "artboard",
+      "id": "DD53F366-9646-4583-9B3C-DC739E513670"
+    },
+    {
+      "class": "artboard",
+      "id": "1610E2B7-F9B5-402D-929B-8B33F3687D8B"
+    }
   ],
   "name": "Lisa",
   "nameIsFixed": true,

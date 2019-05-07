@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7C7CF94F-486B-438C-A2B8-FE4DE2EA8504",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 126,
+    "width": 502,
+    "x": 741,
+    "y": 504
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "992A6D18-6BC0-4C21-BFF5-9E9584FF30AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D7894EB-F4AC-40DE-8442-4CF2554616F5"
+    },
+    {
+      "class": "group",
+      "id": "9ED6DFC5-9D0E-4033-9C37-EB6EE7662123"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "928D597A-E741-43A4-B4FE-9D9A6429888E"
+    }
+  ],
+  "name": "To Do 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
