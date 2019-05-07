@@ -35,7 +35,7 @@
     "do_objectID": "C15F03A1-C8D8-43A8-8B33-A39F1728B89C"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -99,7 +99,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 960
   },
-  "name": "Theme Copy 3",
+  "name": "Challenge (Waste) Unlocking Text",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
