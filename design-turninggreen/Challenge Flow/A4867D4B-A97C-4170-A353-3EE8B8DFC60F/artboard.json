@@ -27,8 +27,8 @@
     "do_objectID": "9FB3F3BF-4C4A-4DAB-8852-28C8601C5300",
     "height": 1445,
     "width": 1440,
-    "x": 4299,
-    "y": -200
+    "x": 1219,
+    "y": 1632
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -111,7 +111,7 @@
       "id": "1657FEC5-2D10-41B0-9864-DC09C6D3B3E2"
     }
   ],
-  "name": "Challenge (Waste) Unlocking Complete",
+  "name": "[OLD] Challenge (Waste) Unlocking Complete",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

@@ -41,11 +41,15 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "39FAE946-7BF2-4629-A75C-FB836F257BB2"
+      "id": "A4867D4B-A97C-4170-A353-3EE8B8DFC60F"
     },
     {
       "class": "artboard",
-      "id": "F9BACF9F-28CB-4C64-BF76-7FC8EE91D2D2"
+      "id": "48C41EE4-A38F-4D21-A3C8-BAAB44E8CE36"
+    },
+    {
+      "class": "artboard",
+      "id": "4BDBF143-3CFC-4EC2-82FA-42A23013E224"
     },
     {
       "class": "artboard",
@@ -57,15 +61,15 @@
     },
     {
       "class": "artboard",
-      "id": "A4867D4B-A97C-4170-A353-3EE8B8DFC60F"
+      "id": "A5A7638A-97E6-4786-9295-EC0681788016"
     },
     {
       "class": "artboard",
-      "id": "48C41EE4-A38F-4D21-A3C8-BAAB44E8CE36"
+      "id": "39FAE946-7BF2-4629-A75C-FB836F257BB2"
     },
     {
       "class": "artboard",
-      "id": "4BDBF143-3CFC-4EC2-82FA-42A23013E224"
+      "id": "F9BACF9F-28CB-4C64-BF76-7FC8EE91D2D2"
     },
     {
       "class": "artboard",
@@ -82,10 +86,6 @@
     {
       "class": "artboard",
       "id": "218F51DB-7CB4-41DF-8D4C-E85E25BBBF77"
-    },
-    {
-      "class": "artboard",
-      "id": "A5A7638A-97E6-4786-9295-EC0681788016"
     }
   ],
   "name": "Challenge Flow",
