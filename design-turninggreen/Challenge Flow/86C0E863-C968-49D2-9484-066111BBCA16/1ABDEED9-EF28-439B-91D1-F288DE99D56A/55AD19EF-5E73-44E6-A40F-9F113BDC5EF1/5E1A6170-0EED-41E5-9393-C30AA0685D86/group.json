@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "17DEAE71-8FAF-4649-AE40-99DF69BFD2DF",
-    "height": 37,
+    "height": 47,
     "width": 59,
-    "x": 81,
-    "y": 555
+    "x": 0,
+    "y": 109.0598803089249
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -50,7 +50,7 @@
   ],
   "name": "Dropdown Copy",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 55,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

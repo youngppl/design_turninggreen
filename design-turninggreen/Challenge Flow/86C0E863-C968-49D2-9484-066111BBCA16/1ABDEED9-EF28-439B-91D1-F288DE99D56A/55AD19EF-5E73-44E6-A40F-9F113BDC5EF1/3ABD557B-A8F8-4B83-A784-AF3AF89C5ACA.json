@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B0902602-38B4-4D2D-8DC2-A9A3885E53D4",
-    "height": 53,
+    "height": 61.83333333333289,
     "width": 232,
-    "x": 81,
-    "y": 614
+    "x": 0,
+    "y": 169.1666666666671
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -34,7 +34,7 @@
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 55,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

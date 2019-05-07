@@ -55,8 +55,8 @@
     "do_objectID": "4FEEFDEB-C702-4B38-BF5B-FB6F44CC992C",
     "height": 30,
     "width": 259,
-    "x": 163,
-    "y": 558
+    "x": 82,
+    "y": 122
   },
   "glyphBounds": "{{0, 5}, {249, 25}}",
   "hasClippingMask": false,
@@ -69,7 +69,7 @@
   "lineSpacingBehaviour": 2,
   "name": "weeks starting today copy",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 39,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

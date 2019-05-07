@@ -55,10 +55,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8F9D0236-A39B-4C7F-B565-A024617C0D41",
-    "height": 93,
+    "height": 126,
     "width": 401,
-    "x": 81,
-    "y": 469
+    "x": 0,
+    "y": 0
   },
   "glyphBounds": "{{0, 10}, {388, 64}}",
   "hasClippingMask": false,
@@ -71,7 +71,7 @@
   "lineSpacingBehaviour": 2,
   "name": "How long would you l Copy",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 55,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

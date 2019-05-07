@@ -2,10 +2,9 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1ABDEED9-EF28-439B-91D1-F288DE99D56A",
+  "do_objectID": "55AD19EF-5E73-44E6-A40F-9F113BDC5EF1",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "61818B80-B32B-4BDD-8D04-3BDC02C9BA52",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "65181352-8B01-4571-A963-39E33879BD43",
-    "height": 828,
-    "width": 502,
-    "x": 741,
-    "y": 646
+    "height": 231,
+    "width": 401,
+    "x": 81,
+    "y": 545
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "D9D1C6B8-8014-45C8-A540-EB3AEC1A5744"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -37,34 +34,29 @@
   "layers": [
     {
       "class": "group",
-      "id": "29051F64-1F79-4DC8-9A51-662AACC75ABC"
-    },
-    {
-      "class": "group",
-      "id": "55AD19EF-5E73-44E6-A40F-9F113BDC5EF1"
+      "id": "5E1A6170-0EED-41E5-9393-C30AA0685D86"
     },
     {
       "class": "text",
-      "id": "362451DC-009F-4E4D-9E24-D997FBE2B1E5"
-    },
-    {
-      "class": "rectangle",
-      "id": "976121C0-3304-40D6-BE30-C1559D1BEFC4"
+      "id": "AF3A0AD1-2135-407B-A7F4-6F37016FC8F9"
     },
     {
       "class": "symbolInstance",
-      "id": "58D668C8-FA8D-4E61-892A-A593A4D5C409"
+      "id": "3ABD557B-A8F8-4B83-A784-AF3AF89C5ACA"
+    },
+    {
+      "class": "text",
+      "id": "2475FF6A-165F-4E2C-A981-6B638D6EAF32"
     }
   ],
-  "name": "To Do Expanded",
+  "name": "Challenge Length",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 55,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D4D7B798-0417-42DA-8362-81AB64AB6529",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

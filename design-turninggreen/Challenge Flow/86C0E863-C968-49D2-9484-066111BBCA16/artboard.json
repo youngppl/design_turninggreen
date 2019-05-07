@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D892D372-F87F-476C-BD42-CE262BAD781E",
-    "height": 1492,
+    "height": 1557,
     "width": 1440,
     "x": -321,
     "y": -200
@@ -35,7 +35,7 @@
     "do_objectID": "409233F0-8EF1-42A3-B3C5-6FDE8EE5A970"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

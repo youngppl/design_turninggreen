@@ -30,11 +30,43 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 145,
+        "length": 146,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3176470588235294,
+            "green": 0.3176470588235294,
+            "red": 0.3098039215686275
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Raleway-Regular",
+              "size": 24
+            }
+          },
+          "kerning": -0.2411765,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 37,
+            "minimumLineHeight": 37
+          },
+          "strikethroughStyle": 0,
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 1
+        },
+        "length": 11,
+        "location": 146
       }
     ],
-    "string": "Carry a bag to collect your waste! Don’t hide it! Carry your bag of waste proudly and invite conversations with classmates and community members."
+    "string": "Carry a bag to collect your waste! Don’t hide it! Carry your bag of waste proudly and invite conversations with classmates and community members.\nLearn more "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,12 +87,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2267C2A6-43A0-4866-A1E7-E4B20495195C",
-    "height": 194,
+    "height": 223,
     "width": 362,
     "x": 81,
-    "y": 259
+    "y": 298
   },
-  "glyphBounds": "{{0, 9}, {359, 172}}",
+  "glyphBounds": "{{0, 9}, {359, 204}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
