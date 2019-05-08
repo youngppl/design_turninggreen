@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "CF9F27E6-4515-4374-BF1A-1784DD57EF8B",
+    "do_objectID": "37442983-9A0E-463C-BE0E-7369AEE47D93",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "86B2A0EC-0B2E-4A4A-AF5A-373CB997765B",
+  "do_objectID": "51CD6512-199A-4857-A428-5C609A44B77C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7538B7B6-8622-47BA-9B85-D6AB4EF2B240",
+    "do_objectID": "9CBD7E1B-D60C-4CD7-8843-9DDBF60D7E96",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,15 +24,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "AD78A9A1-57E5-449F-AA4D-FF2039F806E8",
-    "height": 1499,
+    "do_objectID": "29E419EF-406A-4D39-B6CD-54982F237BB1",
+    "height": 1557,
     "width": 1440,
-    "x": 5806,
-    "y": 1268
+    "x": 1186,
+    "y": 3615
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "091E8A29-7BDB-42D5-BD63-1D9D5015DA0D"
+    "do_objectID": "C4CCEA27-B3A1-4E83-91D7-D63F61E0B38D"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -40,7 +40,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "7BEE2865-4C9C-4DDD-9FB9-9784872831BA",
+    "do_objectID": "0F245F3A-3369-47E7-A221-6D074E8E0A1F",
     "guides": [
     ]
   },
@@ -56,87 +56,87 @@
   "layers": [
     {
       "class": "text",
-      "id": "5B80882D-B3CB-4BEA-8506-9035A5EDB293"
+      "id": "05AD728A-6047-4343-A5C4-C1BF0FAAA58F"
     },
     {
       "class": "text",
-      "id": "A5FBCCF4-5955-46F6-9EDF-D6FC92B82470"
+      "id": "502E3152-061F-4804-B270-27480919D445"
     },
     {
       "class": "text",
-      "id": "CED4DAD7-2974-4E83-963D-80EA7A008230"
+      "id": "A8DDD610-8CEB-420F-A166-EAF94F0E5D6A"
     },
     {
       "class": "group",
-      "id": "4E32DED2-EA51-4363-9C48-C57C81DCBD1B"
+      "id": "7812AAD4-EA00-4D35-B97A-A45459382A49"
     },
     {
       "class": "group",
-      "id": "938DAF3E-AA8A-4028-9210-2B03F12AF6B3"
+      "id": "5B71C835-EC4E-4F47-828F-E073A8852DD3"
     },
     {
       "class": "group",
-      "id": "D36F006E-EDC5-4203-B44A-04D5DDF48765"
+      "id": "74EFFB7C-0E3C-42A4-AE45-B1F1BCEA6B41"
     },
     {
       "class": "rectangle",
-      "id": "3A93543E-5025-4DDF-B780-DE03C5016A49"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B058B289-AC98-4B5E-B30B-9D44685F6E46"
+      "id": "AA5C83F8-A5A3-47EE-9A30-62786BC60752"
     },
     {
       "class": "text",
-      "id": "42A2C0D6-309F-4695-A207-EF9437018458"
+      "id": "D4D7A888-276C-4A08-91EC-5B951D3053B0"
     },
     {
       "class": "group",
-      "id": "F622C2B3-BBC9-406D-BAD1-C7DFD327A977"
+      "id": "AACBA336-9210-44C5-B019-B6B2590DBA41"
     },
     {
       "class": "group",
-      "id": "C9BF87B3-A315-4280-ACB7-D2C137129CB8"
-    },
-    {
-      "class": "group",
-      "id": "4283F236-0116-4C99-A54C-CD82145A0E17"
+      "id": "0A87FFEA-097C-4BE9-A9AE-D52D370B742D"
     },
     {
       "class": "symbolInstance",
-      "id": "F821F202-3125-4EC1-8003-8A079AEA7385"
+      "id": "4DE50C96-14B4-4012-9293-E32BD92FB3E3"
     },
     {
       "class": "group",
-      "id": "16818E24-42F6-496C-9612-45B54F5DD719"
+      "id": "72F3737E-F1C4-4D81-81A7-1945EAB70811"
     },
     {
       "class": "rectangle",
-      "id": "5647A646-7859-49D9-8AF7-A33D8F09E57F"
+      "id": "4CCDF9D4-6CE5-4CD5-8F91-2E72E9E1C895"
     },
     {
       "class": "text",
-      "id": "7993F653-4A85-4802-A499-F23FFCC3E342"
+      "id": "65E61C01-FE36-47D4-8D57-974638073269"
     },
     {
       "class": "text",
-      "id": "2C0F2D95-454F-4B5E-800B-61EDE6307493"
+      "id": "12149BF7-9B5B-4E45-85A2-33366E6A22DA"
     },
     {
       "class": "symbolInstance",
-      "id": "2379EF84-2A2B-427E-AF04-99402B28C7C6"
+      "id": "60276D93-5FC7-485E-B60D-09E01C32BCF8"
     },
     {
       "class": "group",
-      "id": "7F425BC1-A418-4D65-8A12-0026774DD63F"
+      "id": "6FB52A57-6294-499A-813A-F26C4ABFD8E4"
     },
     {
       "class": "text",
-      "id": "C701E6E5-AAFE-4C60-95BA-B8A921B5F032"
+      "id": "27C8337B-1E54-444F-A408-182715F1E23B"
     },
     {
       "class": "text",
-      "id": "4EB6C363-6FC1-4D7B-B087-85D9AAF07619"
+      "id": "BD789E9A-C2ED-4656-8B9D-20CE4D0B78D9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3E37501-4208-46B4-B559-040DE272599E"
+    },
+    {
+      "class": "group",
+      "id": "DDEB0722-85E2-4AF6-A173-A9B1FAD1D258"
     }
   ],
   "name": "Challenge (Waste) Mid State Copy 5",
@@ -155,7 +155,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "4A1F955A-64F1-4074-9EF6-B4EECF469727",
+    "do_objectID": "1CA08965-2603-45FF-A304-80A3EB38B739",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -164,7 +164,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "7E46E313-1D7D-4D0F-A472-C4082354B422",
+    "do_objectID": "AC0EEF86-A859-4B69-9147-CB4C709C46E5",
     "guides": [
       2016
     ]
