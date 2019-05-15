@@ -1,0 +1,131 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BB79A709-3C7D-4BF6-A2CC-81ED309D7BD7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "86C0E863-C968-49D2-9484-066111BBCA16",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "72771A78-4973-4EFA-84B7-BBFD7DC5F923",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D892D372-F87F-476C-BD42-CE262BAD781E",
+    "height": 1557,
+    "width": 1440,
+    "x": -321,
+    "y": -200
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "409233F0-8EF1-42A3-B3C5-6FDE8EE5A970"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8CA3CA5E-8209-47E1-B38E-69C26A408C8F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9C761A41-B034-4810-8550-5BEB438A168F"
+    },
+    {
+      "class": "text",
+      "id": "9DA076B7-F159-46D0-BC0E-4BCEDB49912A"
+    },
+    {
+      "class": "text",
+      "id": "12065C89-0072-4D1F-9421-2E1885908D52"
+    },
+    {
+      "class": "group",
+      "id": "9D2CFF80-85C9-4452-9C7C-0899A28E9B50"
+    },
+    {
+      "class": "group",
+      "id": "F5F26C39-9061-4058-A788-398707DE27CB"
+    },
+    {
+      "class": "group",
+      "id": "19E0D2BB-9C85-4354-83EC-9A43F4857643"
+    },
+    {
+      "class": "group",
+      "id": "C1F325C9-43EA-4B33-BBD4-E82B55D44EE0"
+    },
+    {
+      "class": "group",
+      "id": "2E3D0A08-FDBE-4CA0-9BD1-93377148A216"
+    },
+    {
+      "class": "group",
+      "id": "1ABDEED9-EF28-439B-91D1-F288DE99D56A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF2C6477-6C52-4267-B080-B8F8F6C06D0F"
+    },
+    {
+      "class": "group",
+      "id": "2D0C8D7E-0118-4C8D-A6BA-B453BBD5970A"
+    }
+  ],
+  "name": "Challenge (Waste) Mid State",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F6D038B1-99AF-4274-81C1-91F8A0F68659",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4BF98DF1-3189-47A7-8745-5536FA1247DC",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "15decd20-5a74-11e9-82e1-2b3e67a37490",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -333,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "A4867D4B-A97C-4170-A353-3EE8B8DFC60F"
+    },
+    {
+      "class": "artboard",
+      "id": "48C41EE4-A38F-4D21-A3C8-BAAB44E8CE36"
+    },
+    {
+      "class": "artboard",
+      "id": "4BDBF143-3CFC-4EC2-82FA-42A23013E224"
+    },
+    {
+      "class": "artboard",
+      "id": "0B253BBC-B2CA-47E8-8FD7-C0CA5C19C8AB"
+    },
+    {
+      "class": "artboard",
+      "id": "DC95827E-BC8E-4740-BA3D-78CC5A87666E"
+    },
+    {
+      "class": "artboard",
+      "id": "A5A7638A-97E6-4786-9295-EC0681788016"
+    },
+    {
+      "class": "artboard",
+      "id": "39FAE946-7BF2-4629-A75C-FB836F257BB2"
+    },
+    {
+      "class": "artboard",
+      "id": "F9BACF9F-28CB-4C64-BF76-7FC8EE91D2D2"
+    },
+    {
+      "class": "artboard",
+      "id": "86C0E863-C968-49D2-9484-066111BBCA16"
+    },
+    {
+      "class": "artboard",
+      "id": "D0C5B74B-239B-4FC8-BAB0-3FFB20A06258"
+    },
+    {
+      "class": "artboard",
+      "id": "09D913E5-7BF0-4DF8-85E1-2E1418D70570"
+    },
+    {
+      "class": "artboard",
+      "id": "218F51DB-7CB4-41DF-8D4C-E85E25BBBF77"
+    }
+  ],
+  "name": "Challenge Flow",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -265,
+    "guides": [
+    ]
+  }
+}

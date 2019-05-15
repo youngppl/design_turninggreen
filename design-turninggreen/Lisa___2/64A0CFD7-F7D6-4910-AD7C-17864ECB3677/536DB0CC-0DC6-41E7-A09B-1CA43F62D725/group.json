@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "536DB0CC-0DC6-41E7-A09B-1CA43F62D725",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3D0E70B0-1C32-404B-81AE-C7CC23AA835A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E4D70530-E397-4DC1-97D5-0AC40DE25BB8",
+    "height": 53,
+    "width": 232,
+    "x": 604,
+    "y": 1764
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "1FD4CD26-A9B8-41BC-BAFE-69FBAE9238A7"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "90221B1B-3E8E-4832-8AD7-80B02FEA1071"
+    },
+    {
+      "class": "text",
+      "id": "45D940A8-33BF-46F9-B55A-3691071E951C"
+    }
+  ],
+  "name": "Challenge Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E8FCB36C-12CD-4E13-9F4F-10A2BF2EB7EA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
