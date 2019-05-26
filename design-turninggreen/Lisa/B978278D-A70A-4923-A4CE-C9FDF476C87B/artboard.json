@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 1557,
     "width": 1440,
-    "x": 2726,
-    "y": 3615
+    "x": -300,
+    "y": 3505
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -94,7 +94,7 @@
       "id": "45EE60EB-7C5F-402E-A393-1D9572D279E2"
     }
   ],
-  "name": "Challenge (Waste) Mid State Copy 6",
+  "name": "Challenge (Waste) Mid-Challenge State",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

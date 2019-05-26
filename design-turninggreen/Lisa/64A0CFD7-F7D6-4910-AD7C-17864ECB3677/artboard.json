@@ -25,10 +25,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "ED953A82-58CC-45D7-A37E-2B5DDF351E49",
-    "height": 1945,
+    "height": 1369,
     "width": 1440,
-    "x": -354,
-    "y": 9486
+    "x": -3480,
+    "y": 9796
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -42,6 +42,7 @@
     "base": 0,
     "do_objectID": "40D2540F-D949-492B-B89C-F0B23FCE0F1B",
     "guides": [
+      197
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -123,11 +124,27 @@
       "id": "AF40A602-45A8-436E-83F9-55FEFE31A276"
     },
     {
+      "class": "text",
+      "id": "CC64D681-42D2-4375-87C6-DF63BB8490AB"
+    },
+    {
+      "class": "text",
+      "id": "3AA95224-0AA9-4B64-BB25-5C922DCA3D72"
+    },
+    {
+      "class": "rectangle",
+      "id": "077809E4-9101-4D96-8974-058E8BE6BB08"
+    },
+    {
       "class": "group",
-      "id": "536DB0CC-0DC6-41E7-A09B-1CA43F62D725"
+      "id": "135F38F6-C18E-4FD7-BCA0-DBE6BC1EEC53"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA33DC24-DEA4-485F-9902-3E01C0A8F0C5"
     }
   ],
-  "name": "Settings",
+  "name": "Registration",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

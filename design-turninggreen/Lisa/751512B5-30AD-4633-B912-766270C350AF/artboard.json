@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 1573,
     "width": 1440,
-    "x": -354,
-    "y": 7497
+    "x": -3480,
+    "y": 7697
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -62,8 +62,8 @@
       "id": "B69AD428-64CD-45FA-BA74-052BB6C04354"
     },
     {
-      "class": "group",
-      "id": "8F4428D4-EB73-4BC1-BF89-7A77BDC488CC"
+      "class": "symbolInstance",
+      "id": "750D07BC-C3E1-4720-A9FD-BECFD4ED3B91"
     },
     {
       "class": "oval",
@@ -78,8 +78,8 @@
       "id": "E7153943-DC00-49AA-B3F4-47E7D50482D0"
     }
   ],
-  "name": "Desktop HD",
-  "nameIsFixed": false,
+  "name": "Check-In Reflection Review",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

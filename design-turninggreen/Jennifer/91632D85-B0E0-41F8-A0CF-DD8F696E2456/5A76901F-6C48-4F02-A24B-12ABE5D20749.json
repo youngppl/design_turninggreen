@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5A76901F-6C48-4F02-A24B-12ABE5D20749",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A9BA860-4993-46B3-A727-0038224103E9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2635B816-E0E5-4AD8-93C6-DAACE33ACC8C",
+    "height": 72,
+    "width": 87,
+    "x": 675,
+    "y": 801
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "wellness",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FFFBDC2A-FA5A-46DA-A461-F5186D8AF183",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "922B6DB7-651F-40AA-A642-3CA1E34BA885",
+  "verticalSpacing": 0
+}

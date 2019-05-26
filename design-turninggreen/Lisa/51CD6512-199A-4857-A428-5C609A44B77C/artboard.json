@@ -27,8 +27,8 @@
     "do_objectID": "29E419EF-406A-4D39-B6CD-54982F237BB1",
     "height": 1557,
     "width": 1440,
-    "x": 1186,
-    "y": 3615
+    "x": -1890,
+    "y": 3505
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -139,7 +139,7 @@
       "id": "DDEB0722-85E2-4AF6-A173-A9B1FAD1D258"
     }
   ],
-  "name": "Challenge (Waste) Mid State Copy 5",
+  "name": "Challenge (Waste) Completed State",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

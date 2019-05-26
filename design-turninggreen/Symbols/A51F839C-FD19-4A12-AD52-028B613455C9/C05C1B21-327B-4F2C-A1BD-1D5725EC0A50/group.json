@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C05C1B21-327B-4F2C-A1BD-1D5725EC0A50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7D97DF96-4693-4262-9516-43CB1241C7ED",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "926A5FAF-D383-4EFC-A11C-6129E611B7DA",
+    "height": 72,
+    "width": 62,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B2519672-483D-4CAD-B775-E01DA42AE2A6"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "EEBF8E95-54A5-481A-B5E0-DA99A4DB8320"
+    },
+    {
+      "class": "oval",
+      "id": "D919B9A4-2A46-40B5-A9A3-2A3A579D48B3"
+    },
+    {
+      "class": "shapePath",
+      "id": "80893272-A2CF-4FE2-85C5-BFFCD4EB2ED3"
+    },
+    {
+      "class": "shapePath",
+      "id": "5A3D19AE-E85B-4A13-B261-25E93C16A53B"
+    },
+    {
+      "class": "group",
+      "id": "220A230C-691B-4456-B3EF-F387E4C2926F"
+    }
+  ],
+  "name": "Group 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E03BA394-8315-4013-BA91-E7A1E5F14506",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

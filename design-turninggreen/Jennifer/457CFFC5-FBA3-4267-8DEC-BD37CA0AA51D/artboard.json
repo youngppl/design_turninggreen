@@ -1,0 +1,119 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "539992CF-5472-4A0A-93FC-C4C5E2EFA3C6",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "457CFFC5-FBA3-4267-8DEC-BD37CA0AA51D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "688C6CB3-3216-4669-9E91-827ADDCACC63",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D26E4ACC-2221-4EE6-939B-3CFFD2D1C920",
+    "height": 1024,
+    "width": 1440,
+    "x": 270,
+    "y": 110
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "129288FD-BD51-4A3E-A6F4-A0746F869418"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "09585131-56EA-4C0B-B547-3163D2B93502",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "177559D3-5A61-4F69-9EF3-49EF69F2C513"
+    },
+    {
+      "class": "rectangle",
+      "id": "1DB9F90F-0A85-435D-B3DA-16AEEF21DC1A"
+    },
+    {
+      "class": "oval",
+      "id": "050DFA6A-49B6-4D1E-A9A8-8B2E858C8A0D"
+    },
+    {
+      "class": "text",
+      "id": "8277DCBA-BCD7-454A-A747-2B1B45200D87"
+    },
+    {
+      "class": "text",
+      "id": "9A65E223-AE53-4A89-A8FC-D20A8CA062E7"
+    },
+    {
+      "class": "group",
+      "id": "876AEFCD-A641-4F7D-A494-ABDAE62E5B52"
+    },
+    {
+      "class": "shapePath",
+      "id": "2025E9F7-B8A3-4E5B-9F22-152FB4638B36"
+    },
+    {
+      "class": "shapePath",
+      "id": "8809858F-9699-4314-B7C3-BF929980C88B"
+    }
+  ],
+  "name": "Navbar Underline - Themes",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "33AD6869-8170-472F-825A-99BDD89A9315",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "41A544E6-F084-478F-AE02-BD8012C68FB3",
+    "guides": [
+    ]
+  }
+}

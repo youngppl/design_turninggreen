@@ -27,8 +27,8 @@
     "do_objectID": "2EB46A4F-675E-4ADC-83FF-23E900650D7F",
     "height": 1557,
     "width": 1440,
-    "x": -354,
-    "y": 3615
+    "x": -3480,
+    "y": 3505
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -99,7 +99,7 @@
       "id": "5CA673AF-8F4E-4259-B990-C3235C087ADF"
     }
   ],
-  "name": "Challenge (Waste) Mid State",
+  "name": "Challenge (Waste) Start State",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

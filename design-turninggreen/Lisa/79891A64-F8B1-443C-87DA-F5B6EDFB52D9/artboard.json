@@ -27,8 +27,8 @@
     "do_objectID": "93029708-FC2E-45DF-A530-A9DAF7246FD6",
     "height": 1799,
     "width": 1440,
-    "x": 1186,
-    "y": 7497
+    "x": -1890,
+    "y": 7697
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -79,8 +79,8 @@
       "id": "3C859EB1-FFD8-49AB-A3D2-C0337F423978"
     },
     {
-      "class": "group",
-      "id": "787B6421-B4A6-4EF5-BF21-85179D9B1FAB"
+      "class": "symbolInstance",
+      "id": "59E3E75D-6FFA-40B0-AEFA-0E90F319F6FA"
     },
     {
       "class": "rectangle",
@@ -99,8 +99,8 @@
       "id": "ACA9E6CA-4188-47A5-9771-FA9812C3C2F7"
     }
   ],
-  "name": "Desktop HD Copy",
-  "nameIsFixed": false,
+  "name": "Check-in Reflection Questions",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

@@ -39,6 +39,34 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "91632D85-B0E0-41F8-A0CF-DD8F696E2456"
+    },
+    {
+      "class": "artboard",
+      "id": "561F99C0-88E3-474F-A928-5DE494A00538"
+    },
+    {
+      "class": "artboard",
+      "id": "7FE1D7F1-80E2-46D0-B1BF-215E526B84A2"
+    },
+    {
+      "class": "artboard",
+      "id": "311D7CCD-8F18-48D4-ACC6-2AFA095ECC85"
+    },
+    {
+      "class": "artboard",
+      "id": "457CFFC5-FBA3-4267-8DEC-BD37CA0AA51D"
+    },
+    {
+      "class": "artboard",
+      "id": "8D2AE45D-B831-4E28-9EC9-A334B8B3C851"
+    },
+    {
+      "class": "artboard",
+      "id": "A8A73B7C-AB4C-45CB-87FC-CE881AB51379"
+    }
   ],
   "name": "Jennifer",
   "nameIsFixed": true,

@@ -27,7 +27,7 @@
     "do_objectID": "B69BD6A7-04BE-4C03-9182-B8F4AC206375",
     "height": 1945,
     "width": 1440,
-    "x": 1186,
+    "x": -1890,
     "y": 5362
   },
   "groupLayout": {
@@ -183,15 +183,15 @@
       "id": "E2CE3E58-6FC1-4904-83E3-8881271189D9"
     },
     {
-      "class": "group",
-      "id": "1D1A9839-02BA-4CEF-BEB7-F5C3D7F21166"
-    },
-    {
       "class": "text",
       "id": "277D3D9F-9971-4185-8E8F-ED00B056CE8C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D0C2E033-758E-4A92-91F9-7FC2717AE08F"
     }
   ],
-  "name": "Settings Copy",
+  "name": "Settings",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

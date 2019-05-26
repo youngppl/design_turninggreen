@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FC2DDF17-A6A9-4B82-9B7D-F6B42419FAEE",
-    "height": 61.83333333333289,
+    "height": 47,
     "width": 232,
     "x": 0,
-    "y": 169.1666666666671
+    "y": 169.166666666667
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -29,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "name": "Start Challenge Button",
   "nameIsFixed": false,
   "overrideValues": [
