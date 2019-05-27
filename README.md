@@ -2,7 +2,7 @@
 Welcome 👋🏼! [Sketch](https://www.sketch.com) files for Turning Green's footprint app are updated in this repository using a tool called [Kactus](https://kactus.io).
 
 ## View Designs
-If you're a team member looking to view the designs you'll be able to find them on Zeplin [here](zpl.io/29oAKvY). You'll need to have a Zeplin account and join the project as a member.
+If you're a team member looking to view the designs you'll be able to find them on Zeplin [here](https://zpl.io/VYGNNMJ). You'll need to have a Zeplin account and join the project as a member.
 
 ## Getting Started
 Kactus is used to version control Sketch files for this project to make sure that there is one source of truth and to make it easier to share designs. To get started:
