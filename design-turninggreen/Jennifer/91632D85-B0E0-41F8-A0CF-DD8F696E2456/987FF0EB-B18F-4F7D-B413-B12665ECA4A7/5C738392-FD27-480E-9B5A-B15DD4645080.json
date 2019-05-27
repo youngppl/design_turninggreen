@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5C738392-FD27-480E-9B5A-B15DD4645080",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "529F96C7-8BEE-4215-A35A-3D9AD8FF077C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5E6F4747-EF72-4951-A3AA-7398075ECE97",
+    "height": 223,
+    "width": 144,
+    "x": 114,
+    "y": 25.85157475306414
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Theme Ring 03",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "222C7E3A-9180-4EB3-8EB7-AA6B6368FEB4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0BEFB822-F297-4AED-8B3B-463E714DA862",
+  "verticalSpacing": 0
+}

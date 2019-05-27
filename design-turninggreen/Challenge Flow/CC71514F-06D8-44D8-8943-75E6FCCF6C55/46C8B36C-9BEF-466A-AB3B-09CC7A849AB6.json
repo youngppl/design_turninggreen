@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "46C8B36C-9BEF-466A-AB3B-09CC7A849AB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D681A437-D44A-40ED-A23E-C79F34B61D57",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3896CE92-8C31-43D8-AC6B-FFFBC5FB71C5",
+    "height": 54,
+    "width": 232,
+    "x": 276,
+    "y": 1169
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Retry Challenge Button Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4D4F15ED-C0D1-42B0-84FB-882E718FA6D3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "838B0486-1153-4D3D-863B-0A6029B75ADC",
+  "verticalSpacing": 0
+}

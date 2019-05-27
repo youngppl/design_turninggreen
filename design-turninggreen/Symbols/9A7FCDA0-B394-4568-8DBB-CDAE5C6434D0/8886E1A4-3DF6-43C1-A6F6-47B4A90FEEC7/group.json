@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8886E1A4-3DF6-43C1-A6F6-47B4A90FEEC7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3318C0CD-FC77-414F-9B98-620B922816F9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C2553B55-617F-4550-AA86-5F1AD94ABDA7",
+    "height": 53,
+    "width": 287,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D199E7F1-BC34-4FDD-8580-D933DBF382E7"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9C6C6B6D-1617-480F-8A67-839BFE97785B"
+    },
+    {
+      "class": "text",
+      "id": "1E8D9E32-4C04-469B-82BC-CC1501418E36"
+    }
+  ],
+  "name": "Challenge Button Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "780C4DFE-05C4-4699-B83E-BCA746E4688F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

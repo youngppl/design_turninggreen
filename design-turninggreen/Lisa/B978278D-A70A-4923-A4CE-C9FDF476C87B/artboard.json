@@ -1,0 +1,125 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B978278D-A70A-4923-A4CE-C9FDF476C87B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1557,
+    "width": 1440,
+    "x": -300,
+    "y": 3505
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0262937D-10D3-469E-9552-BE092C0C4922"
+    },
+    {
+      "class": "text",
+      "id": "071B101A-9B1E-4EA2-AA6A-E9468959ECA2"
+    },
+    {
+      "class": "text",
+      "id": "E1AC4BFC-19DB-42C9-A743-4D98C2EE731F"
+    },
+    {
+      "class": "group",
+      "id": "3564BB69-EAA6-46A3-8F17-ECA768D5CAB5"
+    },
+    {
+      "class": "group",
+      "id": "EB7023C1-2D1A-477E-A8CC-A304B86DD963"
+    },
+    {
+      "class": "group",
+      "id": "01E9DAC0-8A61-4C7C-8500-9672ECD5E893"
+    },
+    {
+      "class": "group",
+      "id": "33F10F56-FC30-41CA-826C-E771FAF2CEE6"
+    },
+    {
+      "class": "group",
+      "id": "A052D39A-CA06-4723-A40E-69FD801E2C8F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6FFFA393-223A-4CED-BB6D-014CF84BEFD3"
+    },
+    {
+      "class": "group",
+      "id": "B69E3C44-7B51-4E5E-9EF2-029EF06A18DA"
+    },
+    {
+      "class": "group",
+      "id": "45EE60EB-7C5F-402E-A393-1D9572D279E2"
+    }
+  ],
+  "name": "Challenge (Waste) Mid-Challenge State",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      2016
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "55AD19EF-5E73-44E6-A40F-9F113BDC5EF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 231,
+    "width": 401,
+    "x": 81,
+    "y": 545
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5E1A6170-0EED-41E5-9393-C30AA0685D86"
+    },
+    {
+      "class": "text",
+      "id": "AF3A0AD1-2135-407B-A7F4-6F37016FC8F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3ABD557B-A8F8-4B83-A784-AF3AF89C5ACA"
+    },
+    {
+      "class": "text",
+      "id": "2475FF6A-165F-4E2C-A981-6B638D6EAF32"
+    }
+  ],
+  "name": "Challenge Length",
+  "nameIsFixed": true,
+  "resizingConstraint": 55,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

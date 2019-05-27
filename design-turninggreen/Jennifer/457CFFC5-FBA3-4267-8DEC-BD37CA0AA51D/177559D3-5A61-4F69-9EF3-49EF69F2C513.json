@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "177559D3-5A61-4F69-9EF3-49EF69F2C513",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "60DC9330-415E-4FC2-A8E2-EF264A33DB60",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "631FC18F-9509-42FF-AC22-B2F6C3CFB7A2",
+    "height": 110,
+    "width": 1516,
+    "x": -29,
+    "y": -20
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "thinner navbar",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6F2FC1D3-3CDD-4B5A-9DE3-945AEF74F8B5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9A73B304-20C9-4C0D-B6D0-5586ECDEA8F1",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,147 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3767A7A7-7341-4944-8E00-1C843833E362",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A5A7638A-97E6-4786-9295-EC0681788016",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C086A61-62E1-4A40-92F0-538668FFDB24",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8FB31C72-4676-4849-8F9E-C5A7306C8723",
+    "height": 1445,
+    "width": 1440,
+    "x": 2866,
+    "y": 284
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "520B66BF-1AA2-4F52-ABDE-FEA03FE1B304"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "76E5AE0F-75FA-4B6F-A9FD-6E08AA892FA2",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D98288BF-72F7-444A-AFBF-38D15F1B95D7"
+    },
+    {
+      "class": "text",
+      "id": "CDF919BB-CA30-44DE-9AE5-91694832F594"
+    },
+    {
+      "class": "text",
+      "id": "8C132B1F-B98B-4C6C-9DB3-B8AD1BAEF68E"
+    },
+    {
+      "class": "group",
+      "id": "7DF0C1BA-2460-4E6D-BF09-48468639D74E"
+    },
+    {
+      "class": "group",
+      "id": "FE1732DE-4C58-4135-AD23-652CAFD4B89A"
+    },
+    {
+      "class": "group",
+      "id": "EE1750FA-6217-49CD-B9BA-9C1CED54929B"
+    },
+    {
+      "class": "group",
+      "id": "252315EC-5554-4F53-BD48-0824653B71CC"
+    },
+    {
+      "class": "group",
+      "id": "3653B5E3-EDD4-47A2-8B99-C640E0627CBA"
+    },
+    {
+      "class": "group",
+      "id": "676C64B5-3B01-4CDE-B90A-838B590A7042"
+    },
+    {
+      "class": "group",
+      "id": "B56709F0-4CCC-4E8D-BAD9-EE5391F9B1C4"
+    },
+    {
+      "class": "group",
+      "id": "79CD3AA2-F4BA-4254-8396-C0AD8E994229"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E95CB368-40A4-418C-8B87-5E910B1611CB"
+    },
+    {
+      "class": "rectangle",
+      "id": "2FD6B9D5-06A0-45AE-83B1-CE6072083A72"
+    },
+    {
+      "class": "group",
+      "id": "09FE5F60-17EE-4D3D-AD3F-4D073E5EDA3C"
+    }
+  ],
+  "name": "[OLD] Challenge (Waste) Unlocking Complete",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DEA97895-29B9-457D-83DF-F98E87BE2A5B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AD5EF684-1812-43B2-B920-2634A8F90FBA",
+    "guides": [
+      1445,
+      1342,
+      232,
+      142
+    ]
+  }
+}

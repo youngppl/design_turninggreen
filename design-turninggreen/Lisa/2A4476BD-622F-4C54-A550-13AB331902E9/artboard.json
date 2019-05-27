@@ -1,0 +1,172 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "617B64A7-BFF0-40CD-846C-5AE5611C839C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A4476BD-622F-4C54-A550-13AB331902E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0821B322-EB2C-476E-AD0B-76421D1DA52A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C34B251C-AAC3-454A-9FAE-38154CE5D9FC",
+    "height": 1499,
+    "width": 1440,
+    "x": 1290,
+    "y": 1048
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "7DACD5C3-C974-489C-9E7C-F4CF48AB9D77"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E14B8CF1-01ED-4C32-B41A-55B69B9996B2",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C081B5A9-D759-46F4-A6C7-929D0A3FB306"
+    },
+    {
+      "class": "text",
+      "id": "A064E84D-3E65-414D-9C20-08C878EBE16E"
+    },
+    {
+      "class": "text",
+      "id": "27C218F5-E876-4AB1-828C-B4D31D847B23"
+    },
+    {
+      "class": "group",
+      "id": "423A2FB1-AEF4-4748-9211-5AD71604B075"
+    },
+    {
+      "class": "group",
+      "id": "70B152C3-DA64-4686-9135-39E2465F8139"
+    },
+    {
+      "class": "group",
+      "id": "0400DB3E-5131-4351-A5EC-891297A557B3"
+    },
+    {
+      "class": "rectangle",
+      "id": "25ECA865-0B24-440C-A94E-417C5DC5E6DA"
+    },
+    {
+      "class": "text",
+      "id": "B4192FF8-4556-409E-BA22-BAE4630BCE77"
+    },
+    {
+      "class": "group",
+      "id": "1A25F19D-6956-4814-BCE1-DD23AB1A7DD5"
+    },
+    {
+      "class": "group",
+      "id": "B10BA7DE-393E-4ED7-AB95-32ED5E845185"
+    },
+    {
+      "class": "group",
+      "id": "97131168-40B9-4B31-9B9D-8C33ACFF244C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "798E5E06-F136-46D2-B372-064707A3F4A4"
+    },
+    {
+      "class": "group",
+      "id": "8667EF0C-846B-4D9F-8C13-C6B056D824C2"
+    },
+    {
+      "class": "rectangle",
+      "id": "98A84727-829F-428E-BF75-42C155407215"
+    },
+    {
+      "class": "text",
+      "id": "8AED32BC-2A60-4B1A-B1EF-470EFCAA0EAF"
+    },
+    {
+      "class": "text",
+      "id": "AF093753-AB7B-458F-8C88-E798423F6CB2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2DA2786A-5A61-4EB9-9FE9-B14E88DA5881"
+    },
+    {
+      "class": "group",
+      "id": "E26D1607-70E2-4FC4-8153-6508BEF12AB1"
+    },
+    {
+      "class": "text",
+      "id": "0AF04F6C-58DB-4CF2-894D-E018B428E764"
+    },
+    {
+      "class": "text",
+      "id": "1F113AE2-684A-42E6-9F0C-D98F32C19A82"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8FA11227-BDFA-47F3-A372-D0EC8EE23EA6"
+    }
+  ],
+  "name": "Challenge (Waste) Mid State Copy 5",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "31DFAF53-2D64-4FE2-890B-B99FC0DEBD32",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6305572F-AC05-4DCC-8549-4399A11F9BEC",
+    "guides": [
+      2016
+    ]
+  }
+}

@@ -27,15 +27,15 @@
     "do_objectID": "1AF7E8D0-4F36-4F54-8DD8-480492A453C5",
     "height": 1445,
     "width": 1440,
-    "x": -3401,
-    "y": 3267
+    "x": 1276,
+    "y": 284
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "93DE48BC-982E-4AF5-8797-900C56409A20"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -103,7 +103,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 960
   },
-  "name": "Theme Copy 4",
+  "name": "[OLD] Challenge (Waste) Unlocking Video",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

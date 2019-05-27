@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "198AC341-3725-4A31-A284-9F370A44EC84",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "61078DC5-F814-40FE-B77F-7D4BEEA991DA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0718F423-7514-4674-9790-3CB7D12B47A5",
+    "height": 141,
+    "width": 473,
+    "x": 497,
+    "y": 288
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CB1C4794-AE74-4A86-B8FA-9904F61F8A49"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6E3EA5A8-243E-4897-B56A-1C9ECCD0C833"
+    },
+    {
+      "class": "text",
+      "id": "EA5C435B-B7E4-4FD0-A352-8A3C5DDFAB88"
+    }
+  ],
+  "name": "total challenges",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5961B8EC-2325-4093-8489-9AB8FE79C971",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

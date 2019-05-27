@@ -1,0 +1,172 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CF9F27E6-4515-4374-BF1A-1784DD57EF8B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "86B2A0EC-0B2E-4A4A-AF5A-373CB997765B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7538B7B6-8622-47BA-9B85-D6AB4EF2B240",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AD78A9A1-57E5-449F-AA4D-FF2039F806E8",
+    "height": 1499,
+    "width": 1440,
+    "x": 2880,
+    "y": 1048
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "091E8A29-7BDB-42D5-BD63-1D9D5015DA0D"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7BEE2865-4C9C-4DDD-9FB9-9784872831BA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "5B80882D-B3CB-4BEA-8506-9035A5EDB293"
+    },
+    {
+      "class": "text",
+      "id": "A5FBCCF4-5955-46F6-9EDF-D6FC92B82470"
+    },
+    {
+      "class": "text",
+      "id": "CED4DAD7-2974-4E83-963D-80EA7A008230"
+    },
+    {
+      "class": "group",
+      "id": "4E32DED2-EA51-4363-9C48-C57C81DCBD1B"
+    },
+    {
+      "class": "group",
+      "id": "938DAF3E-AA8A-4028-9210-2B03F12AF6B3"
+    },
+    {
+      "class": "group",
+      "id": "D36F006E-EDC5-4203-B44A-04D5DDF48765"
+    },
+    {
+      "class": "rectangle",
+      "id": "3A93543E-5025-4DDF-B780-DE03C5016A49"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B058B289-AC98-4B5E-B30B-9D44685F6E46"
+    },
+    {
+      "class": "text",
+      "id": "42A2C0D6-309F-4695-A207-EF9437018458"
+    },
+    {
+      "class": "group",
+      "id": "F622C2B3-BBC9-406D-BAD1-C7DFD327A977"
+    },
+    {
+      "class": "group",
+      "id": "C9BF87B3-A315-4280-ACB7-D2C137129CB8"
+    },
+    {
+      "class": "group",
+      "id": "4283F236-0116-4C99-A54C-CD82145A0E17"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F821F202-3125-4EC1-8003-8A079AEA7385"
+    },
+    {
+      "class": "group",
+      "id": "16818E24-42F6-496C-9612-45B54F5DD719"
+    },
+    {
+      "class": "rectangle",
+      "id": "5647A646-7859-49D9-8AF7-A33D8F09E57F"
+    },
+    {
+      "class": "text",
+      "id": "7993F653-4A85-4802-A499-F23FFCC3E342"
+    },
+    {
+      "class": "text",
+      "id": "2C0F2D95-454F-4B5E-800B-61EDE6307493"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2379EF84-2A2B-427E-AF04-99402B28C7C6"
+    },
+    {
+      "class": "group",
+      "id": "7F425BC1-A418-4D65-8A12-0026774DD63F"
+    },
+    {
+      "class": "text",
+      "id": "C701E6E5-AAFE-4C60-95BA-B8A921B5F032"
+    },
+    {
+      "class": "text",
+      "id": "4EB6C363-6FC1-4D7B-B087-85D9AAF07619"
+    }
+  ],
+  "name": "Challenge (Waste) Mid State Copy 5",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4A1F955A-64F1-4074-9EF6-B4EECF469727",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7E46E313-1D7D-4D0F-A472-C4082354B422",
+    "guides": [
+      2016
+    ]
+  }
+}
