@@ -27,7 +27,7 @@
     "do_objectID": "25466155-2B96-455C-A078-F336AED28A8A",
     "height": 1024,
     "width": 1440,
-    "x": 1860,
+    "x": 1608,
     "y": 110
   },
   "groupLayout": {
@@ -77,10 +77,6 @@
     {
       "class": "text",
       "id": "DB6B1A20-1A59-43F4-9DC7-A15DE8B7D33A"
-    },
-    {
-      "class": "group",
-      "id": "D0D06DC6-EEDF-4399-A56F-7D74FE7F0942"
     },
     {
       "class": "shapePath",
@@ -137,6 +133,10 @@
     {
       "class": "group",
       "id": "1A63E587-A647-4C08-B155-41EFF65FAF28"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "350F88CA-5979-4D34-89FE-0F94E16C8E5B"
     }
   ],
   "name": "Navbar Notifications - Clicked",

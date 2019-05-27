@@ -27,7 +27,7 @@
     "do_objectID": "5C97570A-E13C-4CC1-95AF-94D480E9891D",
     "height": 1024,
     "width": 1440,
-    "x": 3450,
+    "x": 3198,
     "y": 110
   },
   "groupLayout": {
@@ -75,10 +75,6 @@
       "id": "91C6DBF5-E518-45F2-8642-BCDC0D19A1E7"
     },
     {
-      "class": "group",
-      "id": "807090D5-DC74-4112-9729-DD881E01FE2D"
-    },
-    {
       "class": "shapePath",
       "id": "96673C82-6A54-4D0C-B536-75879C176354"
     },
@@ -87,8 +83,12 @@
       "id": "68A7B2B9-A9DF-4A2F-9102-3A5D2AFC20CC"
     },
     {
-      "class": "oval",
-      "id": "433072A3-0D0F-4673-B682-2054323DA8FD"
+      "class": "symbolInstance",
+      "id": "D654CCAA-8975-478B-B426-58A7B4ED4CCE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F4A5C62-B964-4AEF-AE4A-FD12439635AB"
     }
   ],
   "name": "Navbar Notification - Alert",

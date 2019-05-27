@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AC1FBE5C-FB7B-4CE9-A8FA-8FD167092D15",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14417555-DD02-49B7-A5ED-5B5658A644F5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BF2239E1-89DE-4ED6-8B25-05E8055852A3",
+    "height": 53,
+    "width": 232,
+    "x": 423,
+    "y": 586
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Watch Video Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E8CC8E9E-F1F4-414C-9EA1-BEA2009F747C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2A3AC4F1-D8F8-42F1-8829-7783ADD5142D",
+  "verticalSpacing": 0
+}

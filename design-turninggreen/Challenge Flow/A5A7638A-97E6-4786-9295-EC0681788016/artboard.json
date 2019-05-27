@@ -27,15 +27,15 @@
     "do_objectID": "8FB31C72-4676-4849-8F9E-C5A7306C8723",
     "height": 1445,
     "width": 1440,
-    "x": 4299,
-    "y": -200
+    "x": 2866,
+    "y": 284
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "520B66BF-1AA2-4F52-ABDE-FEA03FE1B304"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -111,7 +111,7 @@
       "id": "09FE5F60-17EE-4D3D-AD3F-4D073E5EDA3C"
     }
   ],
-  "name": "Challenge (Waste) Unlocking Complete",
+  "name": "[OLD] Challenge (Waste) Unlocking Complete",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

@@ -27,7 +27,7 @@
     "do_objectID": "D26E4ACC-2221-4EE6-939B-3CFFD2D1C920",
     "height": 1024,
     "width": 1440,
-    "x": 270,
+    "x": 18,
     "y": 110
   },
   "groupLayout": {
@@ -75,8 +75,8 @@
       "id": "9A65E223-AE53-4A89-A8FC-D20A8CA062E7"
     },
     {
-      "class": "group",
-      "id": "876AEFCD-A641-4F7D-A494-ABDAE62E5B52"
+      "class": "symbolInstance",
+      "id": "E41CDD4D-1647-4AA7-8582-EC240ADD2F55"
     },
     {
       "class": "shapePath",

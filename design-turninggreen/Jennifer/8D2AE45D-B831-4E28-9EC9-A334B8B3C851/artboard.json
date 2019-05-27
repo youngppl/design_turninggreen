@@ -27,7 +27,7 @@
     "do_objectID": "BE46578D-DEBA-4AE6-96A7-4B18FD3EA3B3",
     "height": 1024,
     "width": 1440,
-    "x": -1320,
+    "x": -1572,
     "y": 110
   },
   "groupLayout": {
@@ -75,16 +75,16 @@
       "id": "E3CCAA75-0E1C-4CA9-A030-A915ACE72010"
     },
     {
-      "class": "group",
-      "id": "91B5E035-5DF9-4F66-9A41-BC709DA28081"
-    },
-    {
       "class": "shapePath",
       "id": "8D84E82B-8149-4127-9C16-25B0B93DB360"
     },
     {
       "class": "shapePath",
       "id": "22BED582-E628-4063-9BCB-322959E5C87B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7A2DDCCD-EE5D-49EF-8570-AE6E28438850"
     }
   ],
   "name": "Navbar Underline - Home",

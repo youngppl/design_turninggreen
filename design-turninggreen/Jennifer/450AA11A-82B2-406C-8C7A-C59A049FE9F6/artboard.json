@@ -1,0 +1,175 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "81DE948F-D2E2-4108-A5A9-CE7A56D72B8F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "450AA11A-82B2-406C-8C7A-C59A049FE9F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DCEE2ACD-D0C4-4C44-8701-BCCFCFD2DFE5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE46B2FF-9382-4042-BB12-6F28705437BE",
+    "height": 1024,
+    "width": 1440,
+    "x": -3162,
+    "y": 5406
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CB59CDBE-FEA7-4366-8AFE-C1FD046382BA"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5A09971B-7314-4FBB-B2E8-DA1BBF6DC40D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D6263A4A-55AB-4AF3-9D19-E33670F9D1C9"
+    },
+    {
+      "class": "text",
+      "id": "02D861A5-3F1C-40A7-97DB-FBE6195BA79F"
+    },
+    {
+      "class": "oval",
+      "id": "FCB6BED9-73F6-448A-B593-DA9CCC39BA7A"
+    },
+    {
+      "class": "oval",
+      "id": "75D30038-F270-4CC6-94F1-B03D527C78DB"
+    },
+    {
+      "class": "oval",
+      "id": "294435F6-BA3D-4500-AC1B-CB6669C4F472"
+    },
+    {
+      "class": "oval",
+      "id": "C7C35572-52E5-4871-8E0C-256E41CCF0D5"
+    },
+    {
+      "class": "oval",
+      "id": "8F061862-3AD0-4060-BEDC-A5EE167818C6"
+    },
+    {
+      "class": "oval",
+      "id": "D0122C24-B15B-4FCE-B60A-705207E2C520"
+    },
+    {
+      "class": "oval",
+      "id": "795756D6-11A9-4F64-9B83-65A6049D5A71"
+    },
+    {
+      "class": "oval",
+      "id": "2BBB7857-E6F4-414F-A86E-D0ED45EC68B7"
+    },
+    {
+      "class": "oval",
+      "id": "7DDE3166-31A1-4B2A-B7E1-283C794BDAE6"
+    },
+    {
+      "class": "oval",
+      "id": "74E21CD9-C5F1-4D45-B5D7-74DDC835701F"
+    },
+    {
+      "class": "oval",
+      "id": "BB51C5B5-DB20-47F9-9DEC-25CE9CACC2A9"
+    },
+    {
+      "class": "oval",
+      "id": "B4D5BE77-8457-42A5-A026-B003B71F4098"
+    },
+    {
+      "class": "oval",
+      "id": "5F44820B-3B8F-4DD1-9896-07E24461A666"
+    },
+    {
+      "class": "oval",
+      "id": "1EA27A00-1AFC-46A5-8F91-99853A8F5E25"
+    },
+    {
+      "class": "oval",
+      "id": "DC0B2052-3C03-470D-9A1E-2CD24F4305BA"
+    },
+    {
+      "class": "oval",
+      "id": "BB7308F9-8E84-4C0E-88A2-16C8CF1E485C"
+    },
+    {
+      "class": "oval",
+      "id": "28E0C701-072C-4923-A9F3-04EA07CCCB1B"
+    },
+    {
+      "class": "oval",
+      "id": "3979E593-46E3-4BE5-9EE3-5548A823AAEA"
+    },
+    {
+      "class": "oval",
+      "id": "936CD279-DA48-48E0-AFB3-383B269F032D"
+    },
+    {
+      "class": "oval",
+      "id": "E9824A9E-156D-4BE8-A72C-E2D7121E5252"
+    }
+  ],
+  "name": "Desktop HD Copy 2",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D1BC7899-4C76-4743-8782-9B9A0C1286BD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "25878BA2-0B6C-49AE-B022-E6F987212B7F",
+    "guides": [
+    ]
+  }
+}

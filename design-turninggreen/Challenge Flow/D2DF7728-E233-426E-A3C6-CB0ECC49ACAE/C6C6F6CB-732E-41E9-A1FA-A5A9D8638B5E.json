@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C6C6F6CB-732E-41E9-A1FA-A5A9D8638B5E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "896D5F73-0D71-4BE9-B543-D5FEA10EFB2C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E3F0715-EFDF-4E87-971E-2D05BC567813",
+    "height": 51,
+    "width": 30,
+    "x": 192,
+    "y": 180
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Arrow Back",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C1CC5EF5-D5F4-4A70-8ECD-1E79426AD112",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3ED4012D-1A4F-4538-8C29-3B9764704A4D",
+  "verticalSpacing": 0
+}

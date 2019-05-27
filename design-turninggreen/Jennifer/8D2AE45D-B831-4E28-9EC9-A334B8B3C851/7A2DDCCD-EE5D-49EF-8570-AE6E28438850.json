@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7A2DDCCD-EE5D-49EF-8570-AE6E28438850",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "280C5F3E-06CB-4099-A58C-D167252C124B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AB8FDE88-BE61-40A0-B7E7-1762E509DB25",
+    "height": 37,
+    "width": 36,
+    "x": 1271,
+    "y": 25
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Notification Bell",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "099802EF-428D-4A55-AEC2-0E79E96F7AE2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6BEFE402-6360-40B0-9E92-12097832BB2F",
+  "verticalSpacing": 0
+}

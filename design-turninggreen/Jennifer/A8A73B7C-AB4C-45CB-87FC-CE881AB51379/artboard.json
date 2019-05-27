@@ -27,7 +27,7 @@
     "do_objectID": "D13F3E5E-BA5E-455D-A2A8-5CF740E07D1B",
     "height": 1024,
     "width": 1440,
-    "x": -2910,
+    "x": -3162,
     "y": 110
   },
   "groupLayout": {
@@ -75,12 +75,12 @@
       "id": "C1841D05-C504-491C-8D85-ADE7AFA7E723"
     },
     {
-      "class": "group",
-      "id": "C3F2D50D-D536-4017-8C46-0EA67EF8F006"
-    },
-    {
       "class": "shapePath",
       "id": "5CFD90BC-CB88-4EB5-B4A2-86E5FD859D83"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97D0A17E-41A6-4406-AA89-BF960367EEEF"
     }
   ],
   "name": "Navbar Base",

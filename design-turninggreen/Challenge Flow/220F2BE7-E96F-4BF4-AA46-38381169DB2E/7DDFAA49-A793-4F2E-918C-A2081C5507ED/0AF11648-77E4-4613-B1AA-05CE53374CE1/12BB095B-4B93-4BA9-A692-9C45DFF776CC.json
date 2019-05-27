@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "12BB095B-4B93-4BA9-A692-9C45DFF776CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9FD258DB-AA64-4DF0-B0E2-44644600A487",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F3B358F6-EB0F-44E3-AD96-78747A0B02D9",
+    "height": 47,
+    "width": 232,
+    "x": 0,
+    "y": 169.166666666667
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Start Challenge Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 55,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9F75FEB2-17CC-4657-8C58-F6D73F052CDC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "78DD8500-44ED-4E56-ADE0-73FCF3168F8A",
+  "verticalSpacing": 0
+}

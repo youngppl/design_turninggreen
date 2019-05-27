@@ -27,15 +27,15 @@
     "do_objectID": "D892D372-F87F-476C-BD42-CE262BAD781E",
     "height": 1557,
     "width": 1440,
-    "x": -321,
-    "y": -200
+    "x": -1904,
+    "y": 284
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "409233F0-8EF1-42A3-B3C5-6FDE8EE5A970"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -99,7 +99,7 @@
       "id": "2D0C8D7E-0118-4C8D-A6BA-B453BBD5970A"
     }
   ],
-  "name": "Challenge (Waste) Mid State",
+  "name": "[OLD] Challenge (Waste) Mid State",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
